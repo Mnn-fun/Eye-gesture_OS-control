@@ -1,7 +1,7 @@
 # Eye-gesture_OS-control
 A vision-based hands-free computer interaction system that enables users to control cursor and actions using eye movement and facial gestures, designed for accessibility and inclusive computing. 
 
-# Problem
+<h3> Problem </h3>
 Most computer systems still depend on a mouse and keyboard, making digital access difficult or impossible for users with motor disabilities. Existing assistive solutions are often expensive, hardware-dependent, or unreliable.
 
 # Solution
@@ -27,3 +27,8 @@ Scalable for education, healthcare, and assistive tech
 
 # Impact
 The solution promotes digital inclusion by enabling independent computer access for individuals with limited motor mobility, aligning with inclusive and human-centered innovation goals.
+
+# Video Link
+https://drive.google.com/file/d/1E0JfCZIIpsXfFpBYyLNGucmxuAj7j4Do/view?usp=drive_link
+
+
