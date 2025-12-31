@@ -28,7 +28,7 @@ Scalable for education, healthcare, and assistive tech
 <h3> Impact </h3>
 The solution promotes digital inclusion by enabling independent computer access for individuals with limited motor mobility, aligning with inclusive and human-centered innovation goals.
 
-<h3> Video Link </h3>
+<h3> Concept Video </h3>
 https://drive.google.com/file/d/1E0JfCZIIpsXfFpBYyLNGucmxuAj7j4Do/view?usp=drive_link
 
 
